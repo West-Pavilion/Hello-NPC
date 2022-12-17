@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Host github.com
 User youremail
 Hostname ssh.github.com
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_rsa
+=======
+Host github.com
+User youremail
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+>>>>>>> a11ada5e7d2f0618a936152f83f4f611961e4f9a
 Port 443

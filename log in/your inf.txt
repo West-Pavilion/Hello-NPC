@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git config --global user.email "you@example.com"
+=======
+git config --global user.email "you@example.com"
+>>>>>>> a11ada5e7d2f0618a936152f83f4f611961e4f9a
 git config --global user.name "Your Name"
